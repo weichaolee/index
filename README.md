@@ -272,6 +272,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	VariabL	| 	[![alt text][web]](https://variabl.io) |	| | | 	(open alpha)	| 	variabl protocol	| 5	| | | | |
 | Velcron | [![alt text][web]](https://velcron.io/) |   |   |   | (dev) | state-channel protocol |   | | | | |
 | VenDEX |   | [![alt text][github]](https://github.com/p2pdex/VenDEX) | [![alt text][whitepaper]](https://github.com/p2pdex/VenDEX/blob/master/VenDEX%20Client%20Original%20Description.doc?raw=true) |   | (dead) | TBC |   | | | | |
+| 	ViteX	| 	[![alt text][web]](https://wallet.vite.net/tradeCenter) |	[![alt text][github]](https://github.com/vitelabs/go-vite/tree/master/vm/contracts/dex) | | `FULLY`| (live) | 	vite protocol | 	| ALL| Vite| vite.org | |
 | Volentix |  [![alt text][web]](https://www.volentix.io) | [![alt text][github]](https://github.com/Volentix) | |  | (dev) | EOS | | | EOS | Volentix Labs | |
 | 	Wanchain	| 	[![alt text][web]](https://wanchain.org/) | [![alt text][github]](https://github.com/wanchain)	| [![alt text][whitepaper]](https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf) | | 	(dev)	| 	wanchain protocol (cross-chain)	| 2	| | | | |
 | 	WandX	| 	[![alt text][web]](https://exchange.wandx.co/) | [![alt text][github]](https://github.com/WandXDapp)	| [![alt text][whitepaper]](https://www.wandx.co/whitepaper.html) | | 	(dev)	| 	wandx protocol	| 1 	| ERC20 Tokens - ERC20 Token Baskets | Ethereum | | |
